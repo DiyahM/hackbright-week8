@@ -4,7 +4,7 @@
 ##### Monday
 Using javascript, create a random password generator. Your function should accept the length of the password as an argument and return a password with any of the chars A-Z, a-z, 0-9, !, $
 ##### Wednesday
-Create a char counter using javascript/jquery. Use the base html file in the provided appetizer folder. When a user types in the textarea, the number of chars should be displayed below. This number should update as the user is counting. In addition display the following messages: <br/>
+Create a char counter using javascript/jquery. Use the base html file in the provided appetizer folder. When a user types in the textarea, the number of chars should be displayed below. This number should update as the user is typing. In addition, display the following messages: <br/>
 1. 'Tweetable' - when the chars are 140 chars or less <br/>
 2. 'Textable' - when the chars are between 141 chars to 160 chars <br/>
 3. 'Just send an email' - when the chars are over 160 chars <br/>
